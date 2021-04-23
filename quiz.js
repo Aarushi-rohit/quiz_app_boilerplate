@@ -34,7 +34,7 @@ let questions = [
     },
     {
         id: 4,
-        question:"What was the Captain America's height before he was transformed into a super-solider?",
+        question:"What was the Captain America's height before he was transformed into a super-soldier?",
         answer:"5'4",
         option:[
             "4'11",
@@ -56,7 +56,7 @@ let questions = [
     },
     {
         id: 6,
-        question:"Finsh this line from Captain America: And Hulk, _________",
+        question:"Finish this line from Captain America: And Hulk, _________",
         answer:"Smash",
         option:[
             "Smash",
